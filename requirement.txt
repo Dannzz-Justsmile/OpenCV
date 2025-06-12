@@ -1,0 +1,6 @@
+pygame          # Library for game development and graphics rendering
+opencv-python   # Computer vision library for image processing
+dlib            # Machine learning and facial recognition toolkit
+numpy           # Numerical computing library for arrays and matrices
+PyQt5           # GUI toolkit for Python
+Pillow          # Library for image processing and manipulation
