@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pygame          # Library for game development and graphics rendering
 opencv-python   # Computer vision library for image processing
 dlib            # Machine learning and facial recognition toolkit
 numpy           # Numerical computing library for arrays and matrices
 PyQt5           # GUI toolkit for Python
+=======
+pygame          # Library for game development and graphics rendering
+opencv-python   # Computer vision library for image processing
+dlib            # Machine learning and facial recognition toolkit
+numpy           # Numerical computing library for arrays and matrices
+PyQt5           # GUI toolkit for Python
+>>>>>>> 4526bd1f00c3f5e5d73bbdb244a94b3e6b69dc41
 Pillow          # Library for image processing and manipulation
